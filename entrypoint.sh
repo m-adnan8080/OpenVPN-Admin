@@ -1,6 +1,3 @@
-
-Viewed
-@@ -0,0 +1,44 @@
 #!/bin/bash
 
 if [ ! -f "/etc/openvpn/.install-finish" ]; then
